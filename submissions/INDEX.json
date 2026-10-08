@@ -49,6 +49,14 @@
       "file": "Nathan_Mathews_Blog_2026-10-08.json"
     },
     {
+      "type": "Project",
+      "points": 70,
+      "title": "PRNG for LEDs on a Shrike-Lite",
+      "link": "https://github.com/vicharak-in/shrike/tree/main/examples/led_reaction_timer",
+      "date": "2026-10-08",
+      "file": "Nathan_Mathews_Project_2026-10-08.json"
+    },
+    {
       "type": "PurchaseProof",
       "points": 0,
       "title": "Purchase proof - Shrike Lite, Order #3967",
