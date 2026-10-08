@@ -1,10 +1,10 @@
-# Fellowship Scores - 2026-10-08 15:15 UTC
+# Fellowship Scores - 2026-10-08 15:26 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
 | Rank | Fellow | GitHub | Kit | Project | LinkedIn | Blog | X | Workshop | Other | Total | Status |
 |---:|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Nathan Mathews | @deagle2 | YES | 1 | 0 | 1 | 0 | 0 | 0 | **110** | BELOW |
+| 1 | Nathan Mathews | @deagle2 | YES | 1 | 0 | 0 | 0 | 0 | 0 | **70** | BELOW |
 | 2 | Saksham Sud | @geneticscrol | YES | 1 | 0 | 0 | 0 | 0 | 0 | **70** | BELOW |
 | 3 | Aaditya Goswami | @aadii02 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 4 | Abhishek Jain | @abhishek261007 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
