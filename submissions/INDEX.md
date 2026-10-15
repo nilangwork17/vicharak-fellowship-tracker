@@ -1,4 +1,4 @@
-# Submissions by Fellow - 2026-10-15 09:09 UTC
+# Submissions by Fellow - 2026-10-15 09:54 UTC
 
 _Total: 27 accepted submissions across 20/60 fellows_
 
@@ -43,7 +43,7 @@ _Total: 27 accepted submissions across 20/60 fellows_
 - [PurchaseProof] PurchaseProof (2026-10-7) - https://ibb.co/4vSJLtb - 0 pts - `Pranav_Dhole_PurchaseProf_2026-10-7.json`
 
 ## Revand Pradeep - 1 submission(s), 0 pts
-- [PurchaseProof] Vicharak Kit Purchase Proof (2026-10-03) - https://drive.google.com/drive/folders/18JQ_lGAOGAOYQ0ecBd2tAzkTKb5Qq7w3 - 0 pts - `RevandPradeep_PurchaseProof_2026-10-03.json`
+- [PurchaseProof] Shrike-Sentinal (2026-10-03) - https://drive.google.com/drive/folders/18JQ_lGAOGAOYQ0ecBd2tAzkTKb5Qq7w3 - 0 pts - `RevandPradeep_PurchaseProof_2026-10-03.json`
 
 ## Rudra Das - 1 submission(s), 0 pts
 - [PurchaseProof] Purchase proof of shrike lite, from Vicharak website, order number #4654 (2026-10-05) - https://drive.google.com/file/d/1MZLztG02_bqR_z3ZRcP0hvcpkmajiLCZ/view?usp=sharing - 0 pts - `Rudra_Das_PurchaseProof_2026-10-05.json`
