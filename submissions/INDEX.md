@@ -1,6 +1,6 @@
-# Submissions by Fellow - 2026-10-17 06:59 UTC
+# Submissions by Fellow - 2026-10-17 09:27 UTC
 
-_Total: 28 accepted submissions across 20/69 fellows_
+_Total: 29 accepted submissions across 20/69 fellows_
 
 ## Adeep AG - 1 submission(s), 0 pts
 - [PurchaseProof] Shrike Lite Order #4726 (2026-10-09) - https://drive.google.com/drive/u/0/folders/1h7LZbNftaQJHPZZ7_Fp8lw2rfFcRpzPM - 0 pts - `Adeep_AG_PurchaseProof_2026-10-09.json`
@@ -32,8 +32,9 @@ _Total: 28 accepted submissions across 20/69 fellows_
 ## MAJJI BHANU PRAKASH - 1 submission(s), 0 pts
 - [PurchaseProof] PurchaseProof (2026-10-07) - https://drive.google.com/file/d/1CDshSAe84N0fkmZvA8rQyvRSKdjuD4up/view?usp=drivesdk - 0 pts - `MAJJI_BHANU_PRAKASH_Purchaseproof_2026-10-09.json`
 
-## Nathan Mathews - 2 submission(s), 40 pts
+## Nathan Mathews - 3 submission(s), 110 pts
 - [Blog] PRNGs on a Shrike-Lite Devboard (2026-10-09) - https://docs.google.com/document/d/1MP8t0d4zSxcjxD-0ID6zmkhGox1zfDe8YlOHhGU3rw4/edit?usp=sharing - 40 pts - `Nathan_Mathews_Blog_2026-10-09.json`
+- [Project] Tiny ILA for Shrike (2026-10-17) - https://github.com/Deagle2/shrike-traces - 70 pts - `Nathan_Mathews_Project_2026-10-17.json`
 - [PurchaseProof] Purchase proof - Shrike Lite, Order #3967 (2026-10-03) - https://drive.google.com/file/d/146DsJhh7G3UF64aGUQF1zYtZObXwhnUl/view - 0 pts - `Nathan_Mathews_PurchaseProof_2026-10-03.json`
 
 ## Pradyumna Dalmia - 1 submission(s), 0 pts
