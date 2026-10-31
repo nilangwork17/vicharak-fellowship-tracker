@@ -1,4 +1,4 @@
-# Submissions by Fellow - 2026-10-30 17:33 UTC
+# Submissions by Fellow - 2026-10-31 10:03 UTC
 
 _Total: 50 accepted submissions across 22/69 fellows_
 
@@ -60,7 +60,7 @@ _Total: 50 accepted submissions across 22/69 fellows_
 
 ## Rudra Das - 3 submission(s), 50 pts
 - [Insta reel] How a FPGA handles Wiring internally far better than a microcontroller. (2026-10-29) - https://drive.google.com/file/d/1BCGLpNFKAuUQUC2rjOgnL4tsFraTsTCR/view?usp=sharing - 0 pts - `Rudra_Das_Insta_reel_2026-10-29.json`
-- [PostedLink] HHow a FPGA handles Wiring internally far better than a microcontroller. (2026-10-30) - https://www.instagram.com/reel/DfHyi7Vox4v/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA== - 50 pts - `Rudra_Das_PostedLink_2026-10-30.json`
+- [PostedLink] How a FPGA handles Wiring internally far better than a microcontroller. (2026-10-30) - https://www.instagram.com/reel/DfHyi7Vox4v/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA== - 50 pts - `Rudra_Das_PostedLink_2026-10-30.json`
 - [PurchaseProof] Purchase proof of shrike lite, from Vicharak website, order number #4654 (2026-10-05) - https://drive.google.com/file/d/1MZLztG02_bqR_z3ZRcP0hvcpkmajiLCZ/view?usp=sharing - 0 pts - `Rudra_Das_PurchaseProof_2026-10-05.json`
 
 ## Rujul Rajeev Rumale - 3 submission(s), 80 pts

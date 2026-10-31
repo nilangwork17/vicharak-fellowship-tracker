@@ -119,7 +119,7 @@ Points = number of accepted links x points for that type. Total = sum of all. 25
 
 ## Live Score List (auto-updated on every merge, do not edit below)
 <!-- SCORES_START -->
-_Updated 2026-10-30 17:33 UTC - Threshold 250 - 14/69 with points_
+_Updated 2026-10-31 10:03 UTC - Threshold 250 - 14/69 with points_
 
 | Rank | Fellow | GitHub | Kit | Total | Status |
 |---:|---|---|---|---:|---|
@@ -151,7 +151,7 @@ Full table: [`SCORES.md`](SCORES.md) · Machine-readable: [`allocations/summary.
 
 ## Projects (auto-updated on every merge, do not edit below)
 <!-- PROJECTS_START -->
-_Updated 2026-10-30 17:33 UTC — 9 approved, 2 in review_
+_Updated 2026-10-31 10:03 UTC — 9 approved, 2 in review_
 
 ### Approved Projects
 | Fellow | Project | Link |
