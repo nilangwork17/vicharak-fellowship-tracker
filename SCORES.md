@@ -1,4 +1,4 @@
-# Fellowship Scores - 2026-11-04 13:32 UTC
+# Fellowship Scores - 2026-11-11 13:07 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
@@ -23,7 +23,7 @@ Threshold: 250 (ELIGIBLE >= 250)
 | 17 | [Aditya Nukala](allocations/Aditya_Nukala.md) | @adikp98 | YES | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 18 | [Aditya Reddy](allocations/Aditya_Reddy.md) | @aditya-1020 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 19 | [Aman Sharma](allocations/Aman_Sharma.md) | @captain1508 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 20 | [Amrutha M](allocations/Amrutha_M.md) | @amrutham-24 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 20 | [Amrutha M](allocations/Amrutha_M.md) | @amrutham-24 | YES | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 21 | [Anandu Rajan](allocations/Anandu_Rajan.md) | @anandurajan1209 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 22 | [Anusheel Singh](allocations/Anusheel_Singh.md) | @anusheelsingh12 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 23 | [Arafat Babar](allocations/Arafat_Babar.md) | @arafatbabar | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |

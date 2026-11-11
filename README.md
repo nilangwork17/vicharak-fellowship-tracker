@@ -108,7 +108,7 @@ Points = number of accepted links x points for that type. Total = sum of all. 25
 
 ## Live Score List (auto-updated on every merge, do not edit below)
 <!-- SCORES_START -->
-_Updated 2026-11-04 13:32 UTC - Threshold 250 - 14/69 with points_
+_Updated 2026-11-11 13:07 UTC - Threshold 250 - 14/69 with points_
 
 | Rank | Fellow | GitHub | Kit | Total | Status |
 |---:|---|---|---|---:|---|
@@ -131,7 +131,7 @@ _Updated 2026-11-04 13:32 UTC - Threshold 250 - 14/69 with points_
 | 17 | [Aditya Nukala](allocations/Aditya_Nukala.md) | @adikp98 | YES | **0** | BELOW |
 | 18 | [Aditya Reddy](allocations/Aditya_Reddy.md) | @aditya-1020 | NO | **0** | BELOW |
 | 19 | [Aman Sharma](allocations/Aman_Sharma.md) | @captain1508 | NO | **0** | BELOW |
-| 20 | [Amrutha M](allocations/Amrutha_M.md) | @amrutham-24 | NO | **0** | BELOW |
+| 20 | [Amrutha M](allocations/Amrutha_M.md) | @amrutham-24 | YES | **0** | BELOW |
 
 _Showing top 20 of 69 - full list in [SCORES.md](SCORES.md)_
 <!-- SCORES_END -->
@@ -140,7 +140,7 @@ Full table: [`SCORES.md`](SCORES.md) · Machine-readable: [`allocations/summary.
 
 ## Projects (auto-updated on every merge, do not edit below)
 <!-- PROJECTS_START -->
-_Updated 2026-11-04 13:32 UTC — 9 approved, 2 in review_
+_Updated 2026-11-11 13:07 UTC — 9 approved, 2 in review_
 
 ### Approved Projects
 | Fellow | Project | Link |

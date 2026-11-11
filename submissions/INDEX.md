@@ -1,6 +1,6 @@
-# Submissions by Fellow - 2026-11-04 13:32 UTC
+# Submissions by Fellow - 2026-11-11 13:07 UTC
 
-_Total: 53 accepted submissions across 22/69 fellows_
+_Total: 54 accepted submissions across 23/69 fellows_
 
 ## Adeep AG - 3 submission(s), 110 pts
 - [Linkedin] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_2026-10-27.json`
@@ -16,6 +16,9 @@ _Total: 53 accepted submissions across 22/69 fellows_
 - [Project] Shrike-Fi Three-Phase SPWM Inverter (2026-10-20) - https://github.com/Amaan9737/shrike-fi-three-phase-spwm-inverter - 70 pts - `Amaan_Pathan_Project_2026-10-20.json`
 - [PurchaseProof] PurchaseProof_pack of 2 ShrikeFi_Amaan Pathan (2026-10-08) - https://drive.google.com/file/d/1UEn-QpIAYLxYL8V42cCf-1WJR7T8QCbP/view?usp=sharing - 0 pts - `Amaan_Pathan_PurchaseProof_2026-10-08.json`
 - [X] Vicharak Campus Fellowship Kickoff (2026-10-10) - https://x.com/AstroAmaan/status/2108955198274379963 - 40 pts - `Amaan_Pathan_X_2026-10-10.json`
+
+## Amrutha M - 1 submission(s), 0 pts
+- [PurchaseProof] Unboxing Vicharak Shrike-Fi (2026-11-08) - https://drive.google.com/file/d/1rfLHI46ZkYroouUPY6lU7rg-J2HjH6f_/view?usp=drive_link - 0 pts - `Amrutha_M__PurchaseProof_2026-11-08.json`
 
 ## Ankit raj - 5 submission(s), 160 pts
 - [Blog] Shrike-Scope: Building a USB Oscilloscope with the Vicharak Shrike-Fi (2026-10-15) - https://docs.google.com/document/d/1LPNTUWZky4v0anmgryq7N7yoyT6Yg6AC/edit?usp=sharing&ouid=109376149344711751562&rtpof=true&sd=true - 40 pts - `Ankit_raj_Blog_2026-10-15.json`
