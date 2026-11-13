@@ -59,6 +59,15 @@
       "for_type": ""
     },
     {
+      "type": "Linkedin",
+      "points": 40,
+      "title": "My first Verilog",
+      "link": "https://www.linkedin.com/posts/amaan-pathan-127bb0263_fpga-verilog-vicharak-ugcPost-7525307841080070144-929k/",
+      "date": "2026-11-09",
+      "file": "Amaan_Pathan_Linkedin_2026-11-09.json",
+      "for_type": ""
+    },
+    {
       "type": "Project",
       "points": 70,
       "title": "Shrike-Fi Three-Phase SPWM Inverter",

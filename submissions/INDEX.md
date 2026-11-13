@@ -1,6 +1,6 @@
-# Submissions by Fellow - 2026-11-13 13:03 UTC
+# Submissions by Fellow - 2026-11-13 13:05 UTC
 
-_Total: 55 accepted submissions across 23/69 fellows_
+_Total: 56 accepted submissions across 23/69 fellows_
 
 ## Adeep AG - 3 submission(s), 110 pts
 - [Linkedin] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_2026-10-27.json`
@@ -10,9 +10,10 @@ _Total: 55 accepted submissions across 23/69 fellows_
 ## Aditya Nukala - 1 submission(s), 0 pts
 - [PurchaseProof] Vicharak Fellowship kit Purchase Proof (2026-10-14) - https://drive.google.com/drive/folders/1wtj7Pgt6J6he5JOblPkfnwpEVLV-jZXD?usp=sharing - 0 pts - `Aditya_Nukala_PurchaseProof_2026-10-14.json`
 
-## Amaan Pathan - 6 submission(s), 230 pts
+## Amaan Pathan - 7 submission(s), 270 pts
 - [Blog] PROJ001-SOL01: 3 Inverter SPWM (2026-11-03) - https://amaan-projects.hashnode.dev/proj001-sol01-3-inverter-spwm - 40 pts - `Amaan_Pathan_Blog_2026-11-03.json`
 - [Linkedin] Vicharak Campus Fellowship Kickoff (2026-10-10) - https://www.linkedin.com/posts/amaan-pathan-127bb0263_vicharak-embeddedsystems-fpga-share-7514711558405521408-DsDl/ - 40 pts - `Amaan_Pathan_Linkedin_2026-10-10.json`
+- [Linkedin] My first Verilog (2026-11-09) - https://www.linkedin.com/posts/amaan-pathan-127bb0263_fpga-verilog-vicharak-ugcPost-7525307841080070144-929k/ - 40 pts - `Amaan_Pathan_Linkedin_2026-11-09.json`
 - [Project] Shrike-Fi Three-Phase SPWM Inverter (2026-10-20) - https://github.com/Amaan9737/shrike-fi-three-phase-spwm-inverter - 70 pts - `Amaan_Pathan_Project_2026-10-20.json`
 - [PurchaseProof] PurchaseProof_pack of 2 ShrikeFi_Amaan Pathan (2026-10-08) - https://drive.google.com/file/d/1UEn-QpIAYLxYL8V42cCf-1WJR7T8QCbP/view?usp=sharing - 0 pts - `Amaan_Pathan_PurchaseProof_2026-10-08.json`
 - [X] Vicharak Campus Fellowship Kickoff (2026-10-10) - https://x.com/AstroAmaan/status/2108955198274379963 - 40 pts - `Amaan_Pathan_X_2026-10-10.json`
