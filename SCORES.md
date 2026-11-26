@@ -1,11 +1,11 @@
-# Fellowship Scores - 2026-11-26 05:15 UTC
+# Fellowship Scores - 2026-11-26 05:35 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
 | Rank | Fellow | GitHub | Kit | Project | LinkedIn | Blog | X | Workshop | Other | Total | Status |
 |---:|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | 1 | 2 | 1 | 2 | 0 | 1 | **360** | ELIGIBLE |
-| 2 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | 1 | 0 | 2 | 3 | 0 | 1 | **360** | ELIGIBLE |
+| 1 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | 1 | 0 | 3 | 3 | 0 | 1 | **400** | ELIGIBLE |
+| 2 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | 1 | 2 | 1 | 2 | 0 | 1 | **360** | ELIGIBLE |
 | 3 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | 2 | 3 | 0 | 0 | 0 | 0 | **260** | ELIGIBLE |
 | 4 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | 1 | 1 | 0 | 1 | 0 | 0 | **150** | BELOW |
 | 5 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | 1 | 0 | 1 | 1 | 0 | 0 | **150** | BELOW |

@@ -108,12 +108,12 @@ Points = number of accepted links x points for that type. Total = sum of all. 25
 
 ## Live Score List (auto-updated on every merge, do not edit below)
 <!-- SCORES_START -->
-_Updated 2026-11-26 05:15 UTC - Threshold 250 - 15/69 with points_
+_Updated 2026-11-26 05:35 UTC - Threshold 250 - 15/69 with points_
 
 | Rank | Fellow | GitHub | Kit | Total | Status |
 |---:|---|---|---|---:|---|
-| 1 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | **360** | ELIGIBLE |
-| 2 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **360** | ELIGIBLE |
+| 1 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **400** | ELIGIBLE |
+| 2 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | **360** | ELIGIBLE |
 | 3 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | **260** | ELIGIBLE |
 | 4 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | **150** | BELOW |
 | 5 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | **150** | BELOW |
@@ -140,7 +140,7 @@ Full table: [`SCORES.md`](SCORES.md) · Machine-readable: [`allocations/summary.
 
 ## Projects (auto-updated on every merge, do not edit below)
 <!-- PROJECTS_START -->
-_Updated 2026-11-26 05:15 UTC — 12 approved, 0 in review_
+_Updated 2026-11-26 05:35 UTC — 12 approved, 0 in review_
 
 ### Approved Projects
 | Fellow | Project | Link |
